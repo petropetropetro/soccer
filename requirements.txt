@@ -1,0 +1,7 @@
+ultralytics
+gdown
+opencv-python
+supervision
+tqdm
+ultralytics
+torch
